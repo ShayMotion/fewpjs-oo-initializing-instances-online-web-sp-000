@@ -6,3 +6,7 @@ constructor(food, drink){
   this.drink = drink;
   }  
 }
+
+class Lunch {
+  constructor 
+}
