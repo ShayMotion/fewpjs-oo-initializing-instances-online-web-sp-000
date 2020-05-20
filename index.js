@@ -8,5 +8,5 @@ constructor(food, drink){
 }
 
 class Lunch {
-  constructor 
+  let 
 }
