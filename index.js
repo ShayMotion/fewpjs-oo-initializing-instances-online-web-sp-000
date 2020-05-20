@@ -8,7 +8,7 @@ constructor(food, drink){
 }
 
 class Lunch {
-let newLunch = 
+let newLunch = new lunch 
   
 }
 
