@@ -8,6 +8,8 @@ constructor(food, drink){
 }
 
 class Lunch {
+let newLunch = 
+  
 }
 
 class Dinner{}
